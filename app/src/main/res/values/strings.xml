@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="bloodborne_deaths">Deaths in Bloodborne</string>
+    <string name="calendar_man">The Calendar Man</string>
+    <string name="courage_dog">Courage the Cowardly Dog</string>
+    <string name="courage_dog_burger">Courage the Cowardly Dog in a Burger</string>
+    <string name="marco_phoenix">Marco the Phoenix</string>
+    <string name="tiger_winnie">Mister Tiger</string>
+    <string name="nibbles_tom_jerry">Nibbles the Mouse</string>
+    <string name="samoyed">Snuffles the Samoyed</string>
+    <string name="artist_1">Ng Xuan Yi (2021)</string>
+    <string name="bloodborne_deaths_desc">Artwork showcasing how the Artist tends to die in Bloodborne</string>
+    <string name="calendar_man_desc">Artwork of Calendar Man, one of Batman\'s Rogue Gallery</string>
+    <string name="courage_dog_desc">Courage the Cowardly Dog Artwork</string>
+    <string name="courage_dog_burger_desc">Courage the Cowardly Dog used in a Burger</string>
+    <string name="marco_phoenix_desc">Marco the Phoenix Artwork</string>
+    <string name="tiger_winnie_desc">Mister Tiger Artwork from Winnie the Pooh</string>
+    <string name="nibbles_tom_jerry_desc">Nibbles the Mouse Artwork from Tom and Jerry</string>
+    <string name="samoyed_desc">Snuffles the Samoyed Artwork</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
